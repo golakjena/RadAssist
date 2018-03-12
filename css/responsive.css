@@ -1,0 +1,142 @@
+@media only screen and (max-width : 1300px){
+	
+	/***
+	Section2
+	***/
+	.patient{ top: 285px; left: 362px;}
+	.txtSection1{ top: 300px;}
+
+
+	/***
+	Section3
+	***/
+	.txt_section3{ left: 482px; top: 110px;}
+	.sckeleton{ width: 220px; left: 0; top: 300px; transition:left 1s linear; -moz-transition:left 1s linear; -webkit-transition:left 1s linear; -ms-transition:left 1s linear;}
+	.sckeleton.leftAnimation{ left: 582px;}
+	.s3_star{ left: 530px; top: 465px;}
+	.logo_section{ left: 80px; top: 5px;}
+	.btnCommon{ height: 46px; line-height: 46px; padding: 0 10px; font-size: 28px;}
+	.btnCommon.continue{ bottom: 60px; right: 15px;}
+
+	/***
+	Section4
+	***/
+	.section4_img1{ width: 275px; top: 170px; left: 10px;}
+	.station{ left: 10px; top: 318px;}
+	.section4_txt2{ left: 565px; top: 270px;}
+	.computer{ width: 200px; right: 20px;}
+	.section4_txt1{ left: 720px; top: 143px;}
+	.section4_img2{ width: 200px; top: 300px; left: 0; transition:left 3s linear; -moz-transition:left 3s linear; -webkit-transition:left 3s linear; -ms-transition:left 3s linear;}
+	.section4_img2.leftAnimation{ left: 850px;}
+	.btnCommon.continue2{ bottom: 160px;}
+	.s4_star1{ left: 0; top: 466px;}
+	.s4_star2{ right: 0; top: 466px;}
+
+	/***
+	Section5
+	***/
+	.paperWork{ font-size: 70px; left: 10px; top: 170px;}
+	.section5-txt1{ top: 120px; left: 437px;}
+	.section5-txt2{ top: 120px; left: 660px;}
+	.section5_img1{ width: 200px; left: 0; top: 300px; transition:left 3s linear; -moz-transition:left 3s linear; -webkit-transition:left 3s linear; -ms-transition:left 3s linear;}
+	.section5_img2{ width: 150px; top: 270px; left: 755px; transition:left 3s linear; -moz-transition:left 3s linear; -webkit-transition:left 3s linear; -ms-transition:left 3s linear;}
+	.section5_img1.leftAnimation{ left: 545px;}
+	.s5_star1{ top: 466px; left: 0;}
+	.s5_star2{ top: 466px; right: 0;}
+
+	/***
+	Section6
+	***/
+	.section6-txt1{ font-size: 38px; left: 10px; top:145px;}
+	.section6-txt1 span{ font-size: 62px;}
+	.section6-txt2{ top: 83px; left: 568px;}
+	.section6-txt3{ top: 83px; left: 701px;}
+	.section6-txt4{ top: 83px; left: 837px;}
+	.section6-txt5{ top: 190px; left: 1020px;}
+	.section6_img1{ width: 200px; left: 0; top: 310px; transition:left 3s linear; -moz-transition:left 3s linear; -webkit-transition:left 3s linear; -ms-transition:left 3s linear;}
+	.section6_img2{ width: 150px; top: 250px; left: 865px; }
+	.section6_img1.leftAnimation{ left: 655px;}
+	.s6_star1{ left: 0; top: 466px;}
+	.s6_star2{ right: 0; top: 466px;}
+
+	/***
+	Section7
+	***/
+	.section7-txt1{ font-size: 38px; top: 175px; left: 10px;}
+	.section7-txt1 span{ font-size: 62px;}
+	.section7-txt2{ top: 83px; left: 702px;}
+	.section7-txt3{ top: 83px; left: 837px;}
+	.section7-txt4{ top: 83px; left: 970px;}
+	.section7-txt5{ top: 220px; left: 766px;}
+	.section7-txt6{ top: 220px; left: 900px;}
+	.section7-txt7{ top: 160px; left: 1073px;}
+	.s7_star1{ top: 466px; left: 0;}
+	.s7_star2{ top: 466px; right: 0;}
+	.xray{ left: 0; top: 340px; width: 180px; transition:left 3s linear; -moz-transition:left 3s linear; -webkit-transition:left 3s linear; -ms-transition:left 3s linear;}
+	.xray.leftAnimation{ left: 380px;}
+	.report{ position: absolute; left: 500px; top: 310px; width: 180px;}
+	/***
+	Section8
+	***/
+	.section8-txt1{ left: 62px; top: 150px; font-size: 38px; line-height: 42px;}
+	.section8-txt2{ top: 83px; left: 568px;}
+	.section8-txt3{ top: 83px; left: 701px;}
+	.section8-txt4{ top: 83px; left: 837px;}
+	.section8-txt5{ left: 632px; top: 220px;}
+	.section8-txt6{ top: 220px; left: 766px;}
+	.section8-txt7{ left: 1005px; top: 133px;}
+	.xray2{ width: 180px; left: 0; top: 315px; transition:left 3s linear; -moz-transition:left 3s linear; -webkit-transition:left 3s linear; -ms-transition:left 3s linear;}
+	.xray2.leftAnimation{ left: 800px;}
+	.report2{ position: absolute; left:930px; top: 280px; width: 180px;}
+	.s8_star1{ top: 466px; left: 0;}
+	.s8_star2{ top: 466px; right: 0;}
+
+	/***
+	Section9
+	***/
+	.section9-txt1{ top: 170px; font-size: 42px; line-height: 48px;}
+	.section9-txt2{ font-size: 16px; left: 970px; top: 160px;}
+	.s9_star1{ top: 466px; left: 0;}
+	.s9_star2{ top: 466px; right: 0;}
+
+	/***
+	Section10
+	***/
+	.section10-txt1{ top: 135px; left: 25px;}
+	.section10_img1{ width: 150px; left: 315px; top: 257px;}
+	.section10_img2{ width: 200px; top: 310px; left: 0; transition:left 3s linear; -moz-transition:left 3s linear; -webkit-transition:left 3s linear; -ms-transition:left 3s linear;}
+	.section10_img2.leftAnimation{ left: 700px;}
+	.section10-txt2{ left: 687px; top: 115px;}
+	.s10_star1{ top: 466px; left: 0;}
+	.s10_star2{ top: 466px; right: 0;}
+
+	/***
+	Section11
+	***/
+	.section11-txt1{ top: 160px; left: 40px; font-size: 38px;}
+	.section11-txt1 span{ font-size: 42px;}
+	.s11_star1{ top: 466px; left: 252px;}
+	.section11-txt2{ left: 1020px; top: 130px;}
+
+	/***
+	Section12
+	***/
+	.section12-txt1{ left: 67px; top: 162px; font-size: 38px;}
+	.section12-txt1 span{ font-size: 52px;}
+	.box h2{ font-size: 22px; line-height: 32px;}
+	.box1{ width: 400px; left: 371px; top: 65px;}
+	.box2{ width: 250px; left: 771px; top: 65px;}
+	.box3{ width: 210px; left: 1020px; top: 65px;}
+	
+
+	/***
+	Section13
+	***/
+	.section13-txt1{ left: 67px; top: 162px; font-size: 38px;}
+	.section13-txt1 span{ font-size: 52px;}
+	.box4{ width: 885px; height: 540px; left: 371px; top: 65px;}
+	.list li:nth-child(1){ width: 198px;}
+	.list li:nth-child(2){ width: 257px;}
+	.list li:nth-child(3){ width: 271px;}
+	.list li p{ font-size: 22px; line-height: 30px;}
+}
